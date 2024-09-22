@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **Portfolio**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hazel-two-32.vercel.app/](https://portfolio-hazel-two-32.vercel.app/)
-
-- 💬 Ask me about **Javascript, Reactjs**
+- 👨‍💻 All of my projects are available at and you can also download my resume for there [https://portfolio-hazel-two-32.vercel.app/](https://portfolio-hazel-two-32.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
