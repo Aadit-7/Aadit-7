@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aadit Suresh Yadav</h1>
 <h3 align="center">As an entry-level MERN stack developer, my primary objective is to utilize my expertise in MongoDB, Express.js, React, and Node.js to craft dynamic, full-stack web applications. I am enthusiastic about applying my skills to develop seamless, scalable solutions, collaborating with a team to address real-world challenges, and consistently expanding my knowledge to adapt to new technologies within a rapidly evolving development environment.</h3>
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadit-7&theme=dracula&show_icons=true&locale=en&layout=compact" height="150" alt="aadit-7"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aadit-7&theme=dracula&hide_border=true" height="150">
+  <img src ="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="150" alt="description of the image" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit-7&label=Profile%20views&color=0e75b6&style=flat" alt="aadit-7" /> </p>
 
@@ -14,6 +19,7 @@
 - 👨‍💻 All of my projects are available at and you can also download my resume for there [https://portfolio-hazel-two-32.vercel.app/](https://portfolio-hazel-two-32.vercel.app/)
 
 - 📫 How to reach me **aadityadav121@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,10 +59,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
- 
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+</div>  
+&nbsp;
+&nbsp;
+&nbsp;
+<div align="left" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadit-7&show_icons=true&theme=dracula" height="150" alt="aadit-7" style="margin-right: 20px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="150" alt="description of the image" />
+ <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="150" alt="description of the image" />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadit-7&show_icons=true&locale=en&layout=compact" alt="aadit-7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadit-7&" alt="aadit-7" /></p>
+
+
