@@ -8,10 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit-7&label=Profile%20views&color=0e75b6&style=flat" alt="aadit-7" /> </p>
 
-- 🔭 I’m currently working on **Chat application**
-
-- 🌱 I’m currently learning **Socket.io**
-
 - 👯 I’m looking to collaborate on **MERN projects**
 
 - 🤝 I’m looking for help with **Portfolio**
