@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Portfolio**
 
-- 👨‍💻 All of my projects are available at and you can also download my resume for there <a href="https://portfolio-amber-chi-76.vercel.app/?vercelToolbarCode=ATS8wZvC78Ukppn">
+- 👨‍💻 All of my projects are available at and you can also download my resume for there [https://portfolio-amber-chi-76.vercel.app/?vercelToolbarCode=ATS8wZvC78Ukppn](https://portfolio-amber-chi-76.vercel.app/?vercelToolbarCode=ATS8wZvC78Ukppn)
 
 - 📫 How to reach me **aadityadav121@gmail.com**
 
