@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aadit Suresh Yadav</h1>
+<h1 align="center">Hi 👋, I am Aadit</h1>
 <h3 align="center">As an entry-level MERN stack developer, my primary objective is to utilize my expertise in MongoDB, Express.js, React, and Node.js to craft dynamic, full-stack web applications. I am enthusiastic about applying my skills to develop seamless, scalable solutions, collaborating with a team to address real-world challenges, and consistently expanding my knowledge to adapt to new technologies within a rapidly evolving development environment.</h3>
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadit-7&theme=dracula&show_icons=true&locale=en&layout=compact" height="150" alt="aadit-7"  />
