@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 🤝 I’m looking for help with **Portfolio**
+- 🤝 I’m looking for help with **Mini Whatsapp CLone**
 
 - 👨‍💻 All of my projects are available at and you can also download my resume for there [https://portfolio-amber-chi-76.vercel.app/?vercelToolbarCode=ATS8wZvC78Ukppn](https://portfolio-amber-chi-76.vercel.app/?vercelToolbarCode=ATS8wZvC78Ukppn)
 
