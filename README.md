@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I am Aadit</h1>
 <h3 align="center">As an entry-level MERN stack developer, my primary objective is to utilize my expertise in MongoDB, Express.js, React, and Node.js to craft dynamic, full-stack web applications. I am enthusiastic about applying my skills to develop seamless, scalable solutions, collaborating with a team to address real-world challenges, and consistently expanding my knowledge to adapt to new technologies within a rapidly evolving development environment.</h3>
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadit-7&theme=dracula&show_icons=true&locale=en&layout=compact" height="150" alt="aadit-7"  />
+<div align="center">
   <img src ="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="150" alt="description of the image" />
 </div>
 
@@ -67,7 +66,6 @@
 &nbsp;
 &nbsp;
 <div align="left" style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadit-7&show_icons=true&theme=dracula" height="150" alt="aadit-7" style="margin-right: 20px;" />
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="150" alt="description of the image" />
  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="150" alt="description of the image" />
 </div>
